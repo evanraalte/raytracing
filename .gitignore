@@ -1,0 +1,6 @@
+obj/*
+bin/*
+Makefile
+image.ppm
+
+RayTracing.make
